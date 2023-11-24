@@ -5,7 +5,7 @@ from operaciones import sumar, restar, multiplicar, dividir
 
 class TestOperacionesMatematicas(unittest.TestCase):
     def test_sumar(self):
-        self.assertEqual(sumar(7, 4), 11)
+        self.assertEqual(sumar(7, 2), 9)
         self.assertEqual(sumar(-1, 1), 0)
         self.assertEqual(sumar(-1, -1), -2)
 
