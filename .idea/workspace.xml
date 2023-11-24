@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9861571f-9a19-4333-88d7-14929f4489ed" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/operaciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/operaciones.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_operaciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_operaciones.py" afterDir="false" />
     </list>
@@ -31,7 +30,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.operaciones">
+  <component name="RunManager" selected="Python tests.Python tests in test_operaciones.py">
     <configuration name="operaciones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,8 +82,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.operaciones" />
         <item itemvalue="Python tests.Python tests in test_operaciones.py" />
+        <item itemvalue="Python.operaciones" />
         <item itemvalue="Python tests.Python tests for test_operaciones.TestOperacionesMatematicas.test_sumar" />
       </list>
     </recent_temporary>
